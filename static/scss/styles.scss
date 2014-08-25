@@ -1,0 +1,8 @@
+$foo:red;
+
+p {
+	a {
+		color:$foo;
+		transform:translateX(10px);
+	}
+}

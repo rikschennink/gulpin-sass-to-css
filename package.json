@@ -1,0 +1,16 @@
+{
+  "name": "gulpin-sass-to-css",
+  "version": "1.0.0",
+  "description": "Article on setting up GulpJS with SASS and AutoPrefixer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rik Schennink",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.9",
+    "gulp-sass": "^0.7.3"
+  }
+}
